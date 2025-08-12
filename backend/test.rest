@@ -1,0 +1,9 @@
+
+POST http://localhost:4000/api/book
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Mywicm9sZSI6InBhdGllbnQiLCJlbWFpbCI6InRlc3RwYXRpZW50QGV4YW1wbGUuY29tIiwiaWF0IjoxNzU1MDI1MDM5LCJleHAiOjE3NTU2Mjk4Mzl9.aUCuvVRgidBPuMpiGvBVgB1kGKXJCA1kwwPmRvIEC4w
+
+
+{
+  "slotId": "2025-08-13T09:00:00.000Z"
+}
