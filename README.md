@@ -25,8 +25,8 @@ Wundrsight is a full-stack appointment booking application featuring a React fro
 
 | Service         | URL                                                  |
 |-----------------|------------------------------------------------------|
-| Frontend (Vercel) | https://wundrsight-nine.vercel.app/                   |
-| Backend (Railway) | https://your-backend-name.up.railway.app             |
+| Frontend (Vercel) | https://wundrsight-five.vercel.app/                |
+| Backend (Replit) | https://wundrsight-backend.vinay.repl.co/api             |
 
 ---
 
